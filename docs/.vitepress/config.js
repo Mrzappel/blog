@@ -1,6 +1,7 @@
 export default {
   title: "ZCC'S BLOG",
   description: 'Just playing around',
+  base: '/',
   themeConfig: {
     logo: '/logo.png',
     siteTitle: 'My Custom Title',
