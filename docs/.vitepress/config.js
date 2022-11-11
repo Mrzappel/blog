@@ -1,9 +1,8 @@
 export default {
   title: "ZCC'S BLOG",
   description: 'Just playing around',
-  base: '/',
   themeConfig: {
-    logo: '/logo.png',
+    logo: 'logo.png',
     siteTitle: 'My Custom Title',
     // siteTitle: false //可隐藏标题,
     socialLinks: [
