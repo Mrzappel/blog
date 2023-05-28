@@ -1,4 +1,5 @@
 # Hello VitePress
+
 ## 你好哇
 
 这里是摘要
@@ -13,3 +14,5 @@ yarn run docs:dev
 ```javascript
 const a = { name: '1', age: 11 }
 console.log(a)
+const b = [a,b,c]
+```
