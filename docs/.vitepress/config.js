@@ -22,12 +22,12 @@ export default {
     // },
     editLink: {
       pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
-      text: 'Edit this page on GitHub'
+      text: 'Edit this page on GitHub',
     },
     lastUpdatedText: 'Updated Date',
     carbonAds: {
       code: 'your-carbon-code',
-      placement: 'your-carbon-placement'
+      placement: 'your-carbon-placement',
     },
     nav: [
       { text: 'second', link: '/getting-started' },
@@ -41,10 +41,10 @@ export default {
             text: 'Section A Title',
             items: [
               { text: 'Section A Item A', link: '...' },
-              { text: 'Section B Item B', link: '...' }
-            ]
-          }
-        ]
+              { text: 'Section B Item B', link: '...' },
+            ],
+          },
+        ],
       },
       {
         text: 'Dropdown Menu',
@@ -53,11 +53,11 @@ export default {
             // You may also omit the title.
             items: [
               { text: 'Section A Item A', link: '...' },
-              { text: 'Section B Item B', link: '...' }
-            ]
-          }
-        ]
-      }
-    ]
-  }
+              { text: 'Section B Item B', link: '...' },
+            ],
+          },
+        ],
+      },
+    ],
+  },
 }
